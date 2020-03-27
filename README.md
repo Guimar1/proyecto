@@ -1,2 +1,0 @@
-# proyecto
-Mi primer proyecto
